@@ -1,0 +1,3 @@
+[submodule "jj_smartthings_devices"]
+	path = jj_smartthings_devices
+	url = https://github.com/causalloop/jj_smartthings_devices.git
