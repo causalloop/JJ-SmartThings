@@ -1,1 +1,0 @@
-# jj_smartthings_devices
